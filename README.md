@@ -1,5 +1,5 @@
-# KDD2020Multimodalities
-KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall (baseline)
+# KDD2020 - Multimodalities
+KDD Cup 2020 Challenges for Modern E-Commerce Platform
 
 python 3.7
 
