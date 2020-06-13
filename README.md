@@ -10,10 +10,15 @@ KDD Cup 2020 Challenges for Modern E-Commerce Platform
   
   ![alt text](https://raw.githubusercontent.com/chaupmcs/KDDChallenge2020_track1_task1/master/query.png)
   
-### Final result
+### Final Result
 39th
 
-### Pip install
+### Some Related Papers
+[1] [Deep Visual-Semantic Hashing for Cross-Modal Retrieval](https://www.kdd.org/kdd2016/papers/files/rpp0086-caoA.pdf)
+[2] [Deep Supervised Cross-modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
+[3] [Deep Cross-Modal Hashing](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.pdf)
+
+### Quick Start
 ```
 python 3.7
 tensorflow==1.15
