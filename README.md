@@ -2,7 +2,8 @@
 KDD Cup 2020 Challenges for Modern E-Commerce Platform
 - Link: https://tianchi.aliyun.com/competition/entrance/231786/rankingList
 - The Challenge:
-  + Training data : Search text (query) and its corresponding product image (just embedding vector and bounding boxes of images, we do NOT have the "raw" images) on an E-Commerce website (3M rows in txt format ~ 124 GB).
+  + Training data : Search text (query) and its corresponding product images. Note that for the images, we just have embedding vectors and its bounding boxes (provided by some objective detections). We do NOT have the "raw" images.
+  The data is from an E-Commrce website, with 3M rows in txt format (~ 124 GB).
   + Requirements: Match the search text (query) and product image, i.e., for each query, pick top 5 most relevant images to the query => Learning Texts and Images => **Cross-modal retrieval** problem
   
   ![alt text](https://raw.githubusercontent.com/chaupmcs/KDDChallenge2020_track1_task1/master/query.png)
